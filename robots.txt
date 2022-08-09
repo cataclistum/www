@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://cataclistum.co.uk/sitemap_index.xml
